@@ -1,4 +1,5 @@
 # Point Cloud Registration with TEASER++
+Too Robust to Fail!
 
 ## Overview
 This git gathers our scripts when testing the solution for **point cloud registration** using the **TEASER++** framework, written in the context of the course **3D Point Cloud and Modeling**, Master IASD. Among others, our scripts are meant to generate synthetic point clouds, apply transformations, and estimates these transformations while handling noise and outliers. The implementation is structured into multiple Python modules, each testing a specific aspect of the registration pipeline.
